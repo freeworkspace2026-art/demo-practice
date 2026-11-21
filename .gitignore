@@ -1,0 +1,13 @@
+# Compiled binaries
+task-tracker
+task-tracker.exe
+*.out
+
+# Build directories
+build/
+cmake-build-*/
+
+# Editor / OS files
+.DS_Store
+.vscode/
+.idea/
